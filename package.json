@@ -1,0 +1,1 @@
+{"name":"riwaq-ios-store","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"start":"node scripts/serve.mjs","sync":"node scripts/sync.mjs","build":"node scripts/build.mjs","test":"node --test"}}
